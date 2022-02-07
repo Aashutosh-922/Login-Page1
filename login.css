@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:lightskyblue;
+
+}
+
+
+  div:hover {
+    width: 300px;
+  }
+
+  
+.center { width: 900px; 
+    margin: 200px auto 0px auto; 
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .center { width: 900px; 
+        margin: 200px auto 0px auto; 
+    }
